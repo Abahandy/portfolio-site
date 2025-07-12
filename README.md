@@ -2,7 +2,7 @@
 
 A visually stunning and interactive 3D developer portfolio built using **React**, **TailwindCSS**, **Three.js**, and **Vite**. This project showcases my skills, projects, and experience in a dynamic and immersive web environment.
 
-![Portfolio Preview](https://imgur.com/BSbdRO8)
+![Portfolio Preview](https://imgur.com/BSbdRO8.png)
 
 ---
 
@@ -36,9 +36,9 @@ A visually stunning and interactive 3D developer portfolio built using **React**
 
 ## 📸 Screenshots
 
-| Hero Section | 3D Desktop | Project Cards |
-|--------------|------------|----------------|
-| ![Hero](https://imgur.com/BSbdRO8) | ![3D](https://imgur.com/izutzpV.png) | ![Cards](https://imgur.com/xsVvWPu.png) |
+| Hero Section |
+|--------------|
+| ![Preview](https://imgur.com/BSbdRO8.png) |
 
 ---
 
